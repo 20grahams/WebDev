@@ -1,0 +1,66 @@
+/* the styles for the elements */
+
+html {
+	background-color: white;
+}
+
+/* header fonts */
+
+header {
+	font family: "Times New Roman", Serif;
+}
+
+/* header h1 font and text shadow */
+
+header h1 {
+	font-size: 45px;
+	text-shadow: 2px 2px #FF0000;
+}
+
+/* header p font size and color */
+
+header p {
+	font-size: 20px;
+	color: Tomato;
+}
+
+/* header img float and clear */
+
+header img {
+	float: top;
+	clear: left;
+}
+
+/* main img padding */
+
+main img {
+	padding-right: 12px;
+	padding-left: 12px;
+	padding-top; 12px;
+	padding-bottom: 12px;
+}
+
+/* main p font */
+
+main p {
+	font-size: 18px
+}
+
+/* id element tect color */
+
+#bottom {
+	color: gray;
+}
+
+/* class element text color */
+
+.top {
+	color: Orange;
+}
+
+/* pseudo class hyperlinks color and font style */
+
+a:hover {
+	color: Violet;
+	font-style: italic;
+}
